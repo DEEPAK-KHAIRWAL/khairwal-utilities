@@ -1,0 +1,22 @@
+{
+  "name": "shadowizard-deepak",
+  "version": "1.0.1",
+  "description": "Get perfect shadows every time for the non-designer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEEPAK-KHAIRWAL/shadowizard.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Deepak Khairwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DEEPAK-KHAIRWAL/shadowizard/issues"
+  },
+  "homepage": "https://github.com/DEEPAK-KHAIRWAL/shadowizard#readme"
+}
