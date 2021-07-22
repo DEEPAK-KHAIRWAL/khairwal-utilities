@@ -1,6 +1,6 @@
 {
-  "name": "shadowizard-deepak",
-  "version": "1.0.1",
+  "name": "khairwal-utilities",
+  "version": "1.0.2",
   "description": "Get perfect shadows every time for the non-designer.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,10 @@
     "url": "git+https://github.com/DEEPAK-KHAIRWAL/shadowizard.git"
   },
   "keywords": [
-    "shadows"
+    "shadows",
+	"utilities",
+	"debounce",
+	"throttle"
   ],
   "author": "Deepak Khairwal",
   "license": "ISC",
